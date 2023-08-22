@@ -1,0 +1,20 @@
+.now{
+    margin: 50px;
+}
+h2{
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 1px 1px 2px cyan;
+}
+.Booknow{
+    border: 3px;
+}
+.card{
+    width: 100px;
+    height: 400px;
+}
+.q{
+    margin-bottom: 50px;
+}
